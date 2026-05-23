@@ -1,4 +1,4 @@
-# 📚 Data Structures & Algorithms in C
+# 📚 Data Structures in C
 
 A collection of fundamental data structure and algorithm implementations written in **C**. These programs demonstrate core concepts such as stacks, queues, binary search trees, and expression evaluation — essential building blocks for computer science.
 
